@@ -2,6 +2,8 @@
 
 ## 📆 Upcoming events
 
+Wasm Launch Day, watch the replay here - https://www.crowdcast.io/c/wasm-launch-day
+
 ## 🔦 Community highlights
 
 <img src="https://use.ink/img/twitter/inkubator-twitter.png" />
@@ -13,6 +15,8 @@
 ## 🎓 Learning
 
 ## ☕️ Technical updates
+
+Wasm is enabled on Astar: Github repo - https://github.com/AstarNetwork/Astar/releases
 
 ## 👀 Releases
 
