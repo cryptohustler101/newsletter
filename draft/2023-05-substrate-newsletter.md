@@ -1,5 +1,5 @@
 ## ⭐TL;DR and important announcements
-
+Astar Network is now directly integrated with Injective opening up direct connections between the Polkadot and Cosmos IBC.
 ## 📆 Upcoming events
 
 ## 🔦 Community highlights
@@ -7,7 +7,7 @@
 ## 🎓 Learning
  
 ## ☕️ Technical updates
-
+Astar has Decentralise Astar Portal using ICP.
 ## 👀 Releases
 
 ## 📰 Substrate jobs
